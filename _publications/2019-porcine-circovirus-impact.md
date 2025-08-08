@@ -7,7 +7,7 @@ excerpt: "This study evaluated the effects of porcine circovirus associated dise
 date: 2019-10-08
 venue: "Vaccine 37 (43), 6535-6542"
 #slidesurl: "http://academicpages.github.io/files/slides1.pdf"
-paperurl: "https://doi.org/10.1016/j.vaccine.2019.09.054"
+paperurl: "https://doi.org/10.1016/j.vaccine.2019.08.039"
 #bibtexurl: "http://academicpages.github.io/files/bibtex1.bib"
 citation: "JY Chen, CM Wu, CM Liao, KC Chen, CC You, YW Wang, C Huang, et al. (2019). &quot;The impact of porcine circovirus associated diseases on live attenuated classical swine fever vaccine in field farm applications.&quot; <i>Vaccine</i> 37(43):6535-6542."
 ---

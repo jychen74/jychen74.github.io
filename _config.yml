@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : ""Jing-Yuan Chen"
+  name             : "Jing-Yuan Chen"
   pronouns         : "he/his"  
   bio              : "Virology & Single-cell; Avian biology; Veterinary pathology"
   location         : "Taiwan"
   employer         : "National Taiwan University"
   uri              : https://jychen74.github.io/
-  email            : "cjyleo@gmail.com" / "jychen@ntu.edu.tw" 
+  email            : "cjyleo@gmail.com / jychen@ntu.edu.tw" 
 
   # Academic websites
   academia         : # URL

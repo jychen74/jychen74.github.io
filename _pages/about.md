@@ -9,14 +9,13 @@ redirect_from:
 
 ## Jing-Yuan (Leo) Chen
 
-I am a veterinarian and a researcher specializing in **Parrot bornavirus (PaBV)** pathogenesis, integrating **vaccine development**, **single-cell RNA sequencing**, **flow cytometry**, and **avian physiology**.  
-My current research focuses on:
+I am a veterinarian and researcher specializing in viral diseases and vaccine development, with a strong commitment to advancing animal health. My early work focused on swine viral pathogens, including Porcine Circovirus Type 2 and Classical Swine Fever Virus, contributing to the improvement of diagnostic tools and disease control strategies.
 
-- Differential gene expression and pathway analysis of PaBV-4 and PaBV-5 in the nervous system
-- Integration of data from QM7 cell models, _in vivo_ parrot infection models, and single-cell transcriptomics
-- Standardization of bioinformatics pipelines (Seurat, Monocle3, GO/KEGG, etc.)
+In recent years, I have expanded my research to avian virology, investigating pathogens such as Avian Influenza Virus and Parrot Bornavirus. A notable achievement in this field is the development of the Instant Parrot Viral-Specific Antibody Detection Cell (ViSA), an innovative serological assay that offers rapid and reliable antibody detection for clinical applications.
+
+My current research integrates single-cell RNA sequencing to explore the pathogenesis and host responses to Parrot Bornavirus infection in experimental parrots. This approach provides unprecedented resolution into host–pathogen interactions, enabling the identification of novel targets for intervention and informing the development of more effective therapeutic strategies.
 
 **Keywords:** virology, single-cell, avian biology, transcriptomics
 
-**Contact:** `cjyleo@gmail.com` / `jychen@ntu.edu.tw`  
+**Contact:** `cjyleo@gmail.com`
 (Please refer to the sidebar for Google Scholar, ORCID, and GitHub links)

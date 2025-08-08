@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /Jing-Yuan Chen/
 ---
 
 ## Jing-Yuan (Leo) Chen

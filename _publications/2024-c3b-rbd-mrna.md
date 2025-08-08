@@ -1,7 +1,7 @@
 ---
 title: "An Immunoreceptor-Targeting Strategy with Minimalistic C3b Peptide Fusion Enhances SARS-CoV-2 RBD mRNA Vaccine Immunogenicity"
 collection: publications
-category: conferences
+category: manuscripts #conferences
 permalink: /publication/2024-c3b-rbd-mrna
 excerpt: "A novel immunoreceptor-targeting strategy incorporating C3b peptide fusion to improve SARS-CoV-2 RBD mRNA vaccine immunogenicity."
 date: 2024-12-31

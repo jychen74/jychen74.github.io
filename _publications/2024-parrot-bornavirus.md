@@ -1,7 +1,7 @@
 ---
 title: "Serological Surveillance and Risk Factor Analysis for Parrot Bornavirus in Taiwan"
 collection: publications
-category: conferences
+category: manuscripts #conferences
 permalink: /publication/2024-parrot-bornavirus
 excerpt: "A large-scale serological survey and risk factor analysis for Parrot Bornavirus in Taiwan."
 date: 2024-04-13

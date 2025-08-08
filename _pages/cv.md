@@ -9,40 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Ph.D in Veterinary Pathobiology, National Chung Hsing University, 2021
+- M.S. in Veterinary PAthobiology, National Chung Hsing University, 2010
+- B.S. in Veterinary medicine, National Chiayi University, 2008
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Work experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 2024- : Postdoctoral fellow
 
-Publications
-======
+  - Animal Resourcen Center, National Taiwan University
+  - Duties includes: Omics study for immunology research, single-cell RNA sequencing, spatial gene expression, establishment of non-model animal trial
+  - Supervisor: Professor Hui-Wen Chen
+
+- 2021-2024: Postdoctoral fellow
+
+  - Department of Veterinary medicine, National Taiwan University
+  - Duties includes: Parrot bornavirus animal model, vaccine and diagnostic method development, immunology research
+  - Supervisor: Professor Hui-Wen Chen
+
+- 2020-2021: Research Assistant
+
+  - Research Center for Animal Medicine, National Chung Hsing University
+  - Duties included: Swind disease diagnosis, animal trials, subunit antigen expression and characterization, vaccine develpoment
+  - Supervisor: Professor Maw-Sheng ChienHub
+
+- 2011-2012: Research Assistant
+  - Graduate institute of Veterinary Pathobiology, National Chung Hsing University
+  - Duties included: molucular cloning, protein characterization, vaccine research projects
+  - Supervisor: Professor Maw-Sheng Chien
+
+# Skills
+
+- Veterinary pathology
+- Immunology and vaccine development
+  - Molecular cloning (_E. coli_, Baculovirus-insect cell system, mammalian cells)
+  - Flow cytometery (conventional and spectrum)
+  - Singel-cell RNA sequencing (chicken, parrot, mice, and human)
+  - Spatial gene expression analysis
+- Bioinformatics (~95% on R, ~5% on python)
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

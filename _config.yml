@@ -29,18 +29,18 @@ author:
   location         : "Taiwan"
   employer         : "National Taiwan University"
   uri              : https://jychen74.github.io/
-  email            : "cjyleo@gmail.com / jychen@ntu.edu.tw" 
+  email            : "cjyleo@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=cGiPX_IAAAAJ&hl=zh-TW"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  #inspire-hep      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8021-2369"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210919532#"
 
   # Repositories and software development

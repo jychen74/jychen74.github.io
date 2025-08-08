@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jing-Yuan Chen"
+title: "Biograohy"
 author_profile: true
 redirect_from:
   - /about/

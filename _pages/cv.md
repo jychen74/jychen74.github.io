@@ -56,8 +56,23 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Journal Articles
+<ul>{% for post in site.publications reversed %}
+  {% if post.category == "manuscripts" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
+
+## Conference Papers
+
+<ul>{% for post in site.publications reversed %}
+  {% if post.category == "conferences" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
+
+# Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>

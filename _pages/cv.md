@@ -52,11 +52,8 @@ redirect_from:
 
 # Publications
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 ## Journal Articles
+
 <ul>{% for post in site.publications reversed %}
   {% if post.category == "manuscripts" %}
     {% include archive-single-cv.html %}

@@ -74,7 +74,9 @@ redirect_from:
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-<link rel="stylesheet" href="/assets/css/print.css" media="print">
+<a href="/files/CV_Jing-Yuan_Chen.pdf" class="btn" download>
+  📄 Download PDF CV
+</a>
 
 <!--Teaching
 

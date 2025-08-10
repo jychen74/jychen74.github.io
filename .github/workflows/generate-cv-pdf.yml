@@ -1,0 +1,48 @@
+name: Generate CV PDF
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "_pages/cv.md"
+      - "assets/css/print.css"
+      - ".github/workflows/generate-cv-pdf.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Puppeteer
+        run: |
+          npm init -y
+          npm install puppeteer
+
+      - name: Wait for GitHub Pages to deploy
+        run: sleep 60
+
+      - name: Generate PDF using Puppeteer
+        run: |
+          echo "const puppeteer = require('puppeteer');
+          (async () => {
+            const browser = await puppeteer.launch({headless: 'new', args: ['--no-sandbox']});
+            const page = await browser.newPage();
+            await page.goto('https://jychen74.github.io/cv/', {waitUntil: 'networkidle0'});
+            await page.pdf({ path: 'CV_Jing-Yuan_Chen.pdf', format: 'A4', printBackground: true });
+            await browser.close();
+          })();" > export.js
+          node export.js
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: CV_Jing-Yuan_Chen
+          path: CV_Jing-Yuan_Chen.pdf

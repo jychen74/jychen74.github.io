@@ -3,10 +3,15 @@
   display: none !important;
 }
 
-/* Set up clean print layout */
+/* Set up A4 print layout */
+@page {
+  size: A4;
+  margin: 1in;
+}
+
 body {
   font-family: "Times New Roman", serif;
-  font-size: 12pt;
+  font-size: 11pt;
   line-height: 1.5;
   color: #000;
   background: #fff;
@@ -15,7 +20,7 @@ body {
 }
 
 .page {
-  padding: 2cm;
+  padding: 0;
 }
 
 /* Prevent page breaks inside headings */
@@ -23,7 +28,13 @@ h1, h2, h3 {
   page-break-after: avoid;
 }
 
-/* Add spacing between sections */
+/* Avoid breaking between a heading and the following paragraph */
+h1, h2, h3, h4, h5, h6, p {
+  orphans: 3;
+  widows: 3;
+}
+
+/* Add spacing before each major section */
 section {
   page-break-before: always;
 }

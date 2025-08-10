@@ -1,0 +1,29 @@
+/* Hide navigation, footer, and sidebar for print */
+.site-header, .page__footer, .page__sidebar, .nav__container, .breadcrumb-nav, .toc {
+  display: none !important;
+}
+
+/* Set up clean print layout */
+body {
+  font-family: "Times New Roman", serif;
+  font-size: 12pt;
+  line-height: 1.5;
+  color: #000;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  padding: 2cm;
+}
+
+/* Prevent page breaks inside headings */
+h1, h2, h3 {
+  page-break-after: avoid;
+}
+
+/* Add spacing between sections */
+section {
+  page-break-before: always;
+}

@@ -8,6 +8,9 @@ on:
       - "assets/css/print.css"
       - ".github/workflows/generate-cv-pdf.yml"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,9 +18,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -44,7 +44,7 @@ jobs:
           })();" > export.js
           node export.js
 
-      - name: Upload PDF as artifact
+      - name: Upload PDF
         uses: actions/upload-artifact@v4
         with:
           name: CV_Jing-Yuan_Chen
@@ -55,10 +55,10 @@ jobs:
           mkdir -p ./files
           mv CV_Jing-Yuan_Chen.pdf ./files/CV_Jing-Yuan_Chen.pdf
 
-      - name: Commit and push PDF to files folder
+      - name: Commit and push PDF to files
         run: |
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add files/CV_Jing-Yuan_Chen.pdf
-          git commit -m "Update PDF CV" || echo "No changes to commit"
+          git commit -m "Update PDF CV"
           git push

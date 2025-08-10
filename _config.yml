@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Jing-Yuan Chen"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   bio              : "Virology & Single-cell; Avian biology; Veterinary pathology"
 #  location         : "Taiwan"
   employer         : "National Taiwan University"

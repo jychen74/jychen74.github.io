@@ -1,13 +1,13 @@
 ---
 title: "Serological surveillance and associated risk factor analysis of parrot bornavirus infection in parrots in Taiwan"
 collection: talks
+category: "Conference proceedings talk"
 type: "Conference proceedings talk"
-permalink: /talks/2023-tw-jp-symposium-pabv
+permalink: /talks/2023-tw-jp-symposium-pabv-1
+excerpt: "This the first study to survey PaBV prevalance and associated risk factors in Taiwan"
+date: 2023-08-25
 venue: "Bilateral National Symposium between Taiwan and Japan"
 location: "Taipei, Taiwan"
-date: 2023-08-25
-authors: "Jing-Yuan Chen, Meng-Chi Wu, Zih-Syun Fang, Hui-Wen Chen"
-# citation: "JY Chen, MC Wu, ZS Fang, HW Chen.  (2023, August 25). Serological surveillance and associated risk factor analysis of parrot bornavirus infection in parrot in Taiwan. Bilateral national symposium between Taiwan and Japan, Taipei, Taiwan."
 ---
 
 Authors: Jing-Yuan Chen, Meng-Chi Wu, Zhi-Syun Fang, Hui-Wen Chen

@@ -17,6 +17,14 @@ url                      : "https://jychen74.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jychen74/jychen74.github.io"
 
+# header setting
+header_pages:
+  - _pages/publications.md
+  - _pages/talks.md
+  #- _pages/teaching.md
+  - _pages/portfolio.md
+  - _pages/cv.md
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html

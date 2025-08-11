@@ -23,6 +23,7 @@ header_pages:
   - _pages/talks.md
   #- _pages/teaching.md
   - _pages/portfolio.md
+  #- _pages/posts
   - _pages/cv.md
 
 # Site Author - The following control what appear as part of the author content on the side bar.

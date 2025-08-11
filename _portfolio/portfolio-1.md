@@ -1,6 +1,6 @@
 ---
 title: "Doctoral dissertation"
-excerpt: [Impact of porcine circovirus-associated disease on classical swine fever vaccines and the strategies for application in field farms](https://lazyliondog.github.io/phddissertation/)
+excerpt: "[Impact of porcine circovirus-associated disease on classical swine fever vaccines and the strategies for application in field farms](https://lazyliondog.github.io/phddissertation/)"
 collection: portfolio
 ---
 

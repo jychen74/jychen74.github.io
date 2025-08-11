@@ -1,11 +1,13 @@
 ---
 title: "A novel versatile diagnostic method for parrot bornavirus infection"
 collection: talks
+category: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2024-asv-pabv-diagnostic
+excerpt: "Let's focus on parrot serum surveillance!"
+date: 2024-06-23
 venue: "American Society for Virology 43rd Annual Meeting"
 location: "Columbus, Ohio, USA"
-date: 2024-06-23
 # citation: "JY Chen & HW Chen. (2024a, June 23). A novel versatile diagnostic method for parrot bornavirus infection. American Society for Virology 43rd Annual Meeting, Columbus, Ohio, USA."
 ---
 

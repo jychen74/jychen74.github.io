@@ -1,12 +1,13 @@
 ---
 title: "*In vitro* and *in vivo* comparative transcriptomic and cellular profiling of PaBV-4 and PaBV-5 infections"
 collection: talks
+category: "Conference proceedings talk"
 type: "Conference proceedings talk"
-permalink: talks/2025-asv-comparative-pabv-talk-abstract
+permalink: /talks/2025-asv-comparative-pabv-talk-abstract
+excerpt: "The state-of-art on parrot viral disease"
+date: 2025-07-15
 venue: "American Society for Virology 44rd Annual Meeting"
 location: "Montreal, Canada"
-date: 2025-07-15
-authors: "Jing-Yuan Chen, Meng-Chi Wu, Hui-Wen Chen"
 # citation: "JY Chen, MC Wu, & HW Chen. (2025, July 15). In vitro and in vivo comparative transcriptomic and cellular profiling of PaBV-4 and PaBV-5 infections. American Society for Virology 44th Annual Meeting, Montreal, Canada."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "In vitro and in vivo comparative transcriptomic and cellular profiling of PaBV-4 and PaBV-5 infections"
+title: "*In vitro* and *in vivo* comparative transcriptomic and cellular profiling of PaBV-4 and PaBV-5 infections"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2025-asv-comparative-pabv
@@ -9,3 +9,7 @@ date: 2025-07-15
 authors: "Jing-Yuan Chen, Meng-Chi Wu, Hui-Wen Chen"
 citation: "JY Chen, MC Wu, & HW Chen. (2025, July 15). In vitro and in vivo comparative transcriptomic and cellular profiling of PaBV-4 and PaBV-5 infections. American Society for Virology 44th Annual Meeting, Montreal, Canada."
 ---
+
+Authors: Jing-Yuan Chen, Meng-Chi Wu, Hui-Wen Chen
+
+In order to elucidate the molecular and cellular underpinnings of parrot bornavirus (PaBV)-induced proventricular dilatation disease (PDD), a fatal infectious condition that impairs both the nervous system and gastrointestinal motility in parrots, we employed a dual experimental approach integrating both in vitro and in vivo methodologies to contrast the effects of two distinct viral strains, PaBV-4 and PaBV-5. In the in vitro experiments, QM7 (quail myoblast) cells were persistently infected with each strain, and subsequent transcriptomic analysis identified 111 differentially expressed genes between the infections. Notably, the neuro-associated genes VIPR2 and LPAR4 were significantly upregulated in cells infected with PaBV-5. In corresponding in vivo studies, cockatiels (Nymphicus hollandicus) were intramuscularly inoculated at pectoral muscle, and brain tissues were collected at 28 days post-inoculation for comprehensive histopathological assessment and single-cell RNA sequencing. The single-cell analysis revealed pronounced alterations in specific cellular populations, particularly oligodendrocytes (marked by MBP expression) and endothelial cells (identified via CDH5), which collectively indicate virus-induced tissue damage and aberrant oligodendrocyte proliferation. Furthermore, the upregulation of the SATB1 gene in brain tissues infected with both viral strains suggest the existence of a common infection mechanism. Overall, our findings provide critical insights into the divergent neuroinflammatory mechanisms elicited by PaBV-4 and PaBV-5, thereby advancing our understanding of the pathogenesis of PDD in avian hosts.

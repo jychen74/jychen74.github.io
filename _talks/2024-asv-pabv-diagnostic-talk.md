@@ -1,7 +1,7 @@
 ---
 title: "A novel versatile diagnostic method for parrot bornavirus infection"
 collection: talks
-category: "Conference proceedings talk"
+category: "PaBV"
 type: "Conference proceedings talk"
 permalink: /talks/2024-asv-pabv-diagnostic
 excerpt: "Let's focus on parrot serum surveillance!"

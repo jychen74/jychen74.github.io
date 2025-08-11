@@ -1,7 +1,7 @@
 ---
 title: "Serological surveillance and associated risk factor analysis of parrot bornavirus infection in parrots in Taiwan"
 collection: talks
-category: "Conference proceedings talk"
+category: "PaBV"
 type: "Conference proceedings talk"
 permalink: /talks/2023-tw-jp-symposium-pabv-1
 excerpt: "This the first study to survey PaBV prevalance and associated risk factors in Taiwan"

@@ -1,7 +1,7 @@
 ---
 title: "*In vitro* and *in vivo* comparative transcriptomic and cellular profiling of PaBV-4 and PaBV-5 infections"
 collection: talks
-category: "Conference proceedings talk"
+category: "PaBV"
 type: "Conference proceedings talk"
 permalink: /talks/2025-asv-comparative-pabv-talk-abstract
 excerpt: "The state-of-art on parrot viral disease"

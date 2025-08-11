@@ -1,6 +1,6 @@
 ---
 title: "Doctoral dissertation"
-excerpt: ![](images/doctoral-dissertation.png)
+excerpt: "![](images/doctoral-dissertation.png)"
 collection: portfolio
 ---
 
@@ -9,3 +9,5 @@ collection: portfolio
 ![pic](/images/doctoral-dissertation.png)
 
 [![](images/doctoral-dissertation.png)](https://lazyliondog.github.io/phddissertation/)
+
+"[![](../../images/portfolio/doctoral-dissertation.png)](https://lazyliondog.github.io/phddissertation/)"

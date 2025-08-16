@@ -3,7 +3,7 @@ title: "獸醫診斷研究的跨界旅程"
 collection: talks
 category: "Vererinary"
 type: "Talk"
-permalink: /talks/2025-NCB-獸醫診斷研究的跨界旅程-talk.md
+permalink: /talks/2025-NCB-獸醫診斷研究的跨界旅程-talk
 excerpt: ""
 date: 2025-08-15
 venue: "National Center for Biomodels"

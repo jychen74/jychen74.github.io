@@ -10,4 +10,4 @@ venue: "National Center for Biomodels"
 location: "Taipei, Taiwan"
 ---
 
-<img src='/images/20250815-ncb-talk.png' alt='20250815 NCB' style='max-width: 70%; border-radius: 10px; border-color: #2D83ED;'>
+<img src='/images/20250815-ncb-talk.png' alt='20250815 NCB' style='max-width: 70%; border-radius: 10px; border-color: #08264D;'>

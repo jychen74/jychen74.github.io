@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "\u7378\u91ab\u8a3a\u65b7\u7814\u7a76\u7684\u8de8\u754c\u65c5\u7a0b<br />National Center for Biomodels; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "A novel versatile diagnostic method for parrot bornavirus infection<br />American Society for Virology 43rd Annual Meeting; Columbus, Ohio, USA",
+    39.9622601,
+    -83.0007065
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "*In vitro* and *in vivo* comparative transcriptomic and cellular profiling of PaBV-4 and PaBV-5 infections<br />American Society for Virology 44rd Annual Meeting; Montreal, Canada",
+    45.5031824,
+    -73.5698065
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Serological surveillance and associated risk factor analysis of parrot bornavirus infection in parrots in Taiwan<br />Bilateral National Symposium between Taiwan and Japan; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
   ]
 ];

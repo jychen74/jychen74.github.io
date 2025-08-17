@@ -5,7 +5,7 @@ var addressPoints = [
     -83.0007065
   ],
   [
-    "Integrated transcriptomic analysis of parrot bornavirus infection: from cell culture to animal models<br />UAAT-CVMBS bilateral symposium; Texas A&M University, Texas, USA",
+    "Integrated transcriptomic analysis of parrot bornavirus infection: from cell culture to animal models<br />UAAT-CVMBS bilateral symposium; Texas A&M University, College station, Texas, USA",
     30.6108618,
     -96.3520606
   ],

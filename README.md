@@ -1,8 +1,3 @@
-
-Hi I am JY Chen.
-
-
-<!--
 # Academic Pages
 
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
@@ -113,4 +108,3 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 </div>
 
 trigger build
--->

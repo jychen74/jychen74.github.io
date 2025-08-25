@@ -56,7 +56,7 @@ redirect_from:
   {% if post.category == "honors" %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}</ul>
+{% endfor %}</ul> 
 
 
 # Publications

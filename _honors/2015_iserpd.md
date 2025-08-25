@@ -1,5 +1,5 @@
 ---
-title: "Student Award at 2015 the 7<sup>th</sup> International Symposium of Emerging and Re-emerging Pig Diseases"
+title: "2015, Student Award at the 7<sup>th</sup> International Symposium of Emerging and Re-emerging Pig Diseases"
 collection: honors
 category: honors
 permalink: /honors/2015_iserpd/

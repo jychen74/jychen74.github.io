@@ -79,9 +79,19 @@ redirect_from:
 
 # Talks
 
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+## Invited Talks
+<ul>{% for post in site.talks reversed %}
+  {% if post.type == "Invited talk" %}
+    {% include archive-single-talk-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
+
+## Conference Presentations
+<ul>{% for post in site.talks reversed %}
+  {% if post.type == "Conference proceedings talk" %}
+    {% include archive-single-talk-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
 
 <a href="/files/CV_Jing-Yuan_Chen.pdf" class="btn btn--primary" download>
   <i class="fas fa-file-pdf"></i> Download PDF CV

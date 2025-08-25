@@ -29,6 +29,12 @@ jobs:
           npm init -y
           npm install puppeteer
 
+      - name: Install Noto Sans TC font
+        run: |
+          mkdir -p ~/.fonts
+          cp ./assets/fonts/NotoSansTC-Regular.ttf ~/.fonts/
+          fc-cache -fv
+          
       - name: Wait for GitHub Pages to deploy
         run: sleep 60
 

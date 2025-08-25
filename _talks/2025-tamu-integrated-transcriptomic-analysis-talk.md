@@ -2,7 +2,7 @@
 title: "Integrated transcriptomic analysis of parrot bornavirus infection: from cell culture to animal models"
 collection: talks
 category: "PaBV"
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/2025-tamu-integrated-transcriptomic-analysis-talk
 excerpt: ""
 date: 2025-07-22

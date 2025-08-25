@@ -50,6 +50,15 @@ redirect_from:
   - Spatial gene expression analysis
 - Bioinformatics (~95% on R, ~5% on python)
 
+# Honors
+
+<ul>{% for post in site.publications reversed %}
+  {% if post.category == "honors" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
+
+
 # Publications
 
 ## Journal Articles

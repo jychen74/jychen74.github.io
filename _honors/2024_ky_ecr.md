@@ -4,7 +4,7 @@ collection: honors
 category: honors
 permalink: /honors/2024_ky_ecr/
 venue: Kyoto University
-date: 2024
+date: 2024-07-01
 layout: single
 ---
 

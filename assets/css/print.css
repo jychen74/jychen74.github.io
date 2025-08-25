@@ -1,5 +1,20 @@
-/* Google Font：Noto Sans TC */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+@font-face {
+  font-family: 'Noto Sans TC';
+  src: url('/assets/fonts/NotoSansTC-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* print font setting */
+body {
+  font-family: 'Noto Sans TC', 'Times New Roman', serif;
+  font-size: 11pt;
+  line-height: 1.5;
+  color: #000;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
 
 /* Hide navigation, footer, and sidebar for print */
 .site-header, .page__footer, .page__sidebar, .nav__container, .breadcrumb-nav, .toc {

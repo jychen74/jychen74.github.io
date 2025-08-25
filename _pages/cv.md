@@ -52,7 +52,7 @@ redirect_from:
 
 # Honors
 
-<ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.honors reversed %}
   {% if post.category == "honors" %}
     {% include archive-single-cv.html %}
   {% endif %}

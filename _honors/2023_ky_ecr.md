@@ -1,5 +1,5 @@
 ---
-title: "Early Career Researcher"
+title: "2023, Early Career Researcher, National Taiwan University & Kyoto University"
 collection: honors
 category: honors
 permalink: /honors/2023_ky_ecr/

@@ -1,5 +1,5 @@
 ---
-title: "Early Career Researcher"
+title: "2024, Early Career Researcher, Kyoto University"
 collection: honors
 category: honors
 permalink: /honors/2024_ky_ecr/

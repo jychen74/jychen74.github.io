@@ -12,14 +12,14 @@ redirect_from:
 # Education
 
 - Ph.D in Veterinary Pathobiology, National Chung Hsing University, 2021
-- M.S. in Veterinary PAthobiology, National Chung Hsing University, 2010
+- M.S. in Veterinary Pathobiology, National Chung Hsing University, 2010
 - B.S. in Veterinary medicine, National Chiayi University, 2008
 
 # Work experience
 
 - 2024- : Postdoctoral fellow
 
-  - Animal Resourcen Center, National Taiwan University
+  - Animal Resource Center, National Taiwan University
   - Duties includes: Omics study for immunology research, single-cell RNA sequencing, spatial gene expression, establishment of non-model animal trial
   - Supervisor: Professor Hui-Wen Chen
 
@@ -32,12 +32,12 @@ redirect_from:
 - 2020-2021: Research Assistant
 
   - Research Center for Animal Medicine, National Chung Hsing University
-  - Duties included: Swind disease diagnosis, animal trials, subunit antigen expression and characterization, vaccine develpoment
+  - Duties included: Swine disease diagnosis, animal trials, subunit antigen expression and characterization, vaccine development
   - Supervisor: Professor Maw-Sheng ChienHub
 
 - 2011-2012: Research Assistant
   - Graduate institute of Veterinary Pathobiology, National Chung Hsing University
-  - Duties included: molucular cloning, protein characterization, vaccine research projects
+  - Duties included: molecular cloning, protein characterization, vaccine research projects
   - Supervisor: Professor Maw-Sheng Chien
 
 # Skills
@@ -45,8 +45,8 @@ redirect_from:
 - Veterinary pathology
 - Immunology and vaccine development
   - Molecular cloning (_E. coli_, Baculovirus-insect cell system, mammalian cells)
-  - Flow cytometery (conventional and spectrum)
-  - Singel-cell RNA sequencing (chicken, parrot, mice, and human)
+  - Flow cytometry (conventional and spectrum)
+  - Single-cell RNA sequencing (chicken, parrot, mice, and human)
   - Spatial gene expression analysis
 - Bioinformatics (~95% on R, ~5% on python)
 

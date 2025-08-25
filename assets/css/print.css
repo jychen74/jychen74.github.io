@@ -1,3 +1,6 @@
+/* Google Font：Noto Sans TC */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
 /* Hide navigation, footer, and sidebar for print */
 .site-header, .page__footer, .page__sidebar, .nav__container, .breadcrumb-nav, .toc {
   display: none !important;
@@ -10,7 +13,7 @@
 }
 
 body {
-  font-family: "Times New Roman", serif;
+  font-family: 'Noto Sans TC', 'Times New Roman', serif;
   font-size: 11pt;
   line-height: 1.5;
   color: #000;

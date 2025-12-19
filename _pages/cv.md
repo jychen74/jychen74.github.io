@@ -17,7 +17,13 @@ redirect_from:
 
 # Work experience
 
-- 2024- : Postdoctoral fellow
+- 2025~ Present: Assistant Research Fellow
+
+  - Veterinary diagnosis, National Center for Biomodels
+  - Duties includes: Molecular diagnosis development, laboratory management
+  - Supervisor: Dr. Yu-Chia Su
+
+- 2024-2025 : Postdoctoral fellow
 
   - Animal Resource Center, National Taiwan University
   - Duties includes: Omics study for immunology research, single-cell RNA sequencing, spatial gene expression, establishment of non-model animal trial

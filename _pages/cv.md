@@ -18,25 +18,21 @@ redirect_from:
 # Work experience
 
 - 2025~ Present: Assistant Research Fellow
-
   - Veterinary diagnosis, National Center for Biomodels
   - Duties includes: Molecular diagnosis development, laboratory management
-  - Supervisor: Dr. Yu-Chia Su
+  - Division head: Dr. Yu-Chia Su
 
 - 2024-2025 : Postdoctoral fellow
-
   - Animal Resource Center, National Taiwan University
   - Duties includes: Omics study for immunology research, single-cell RNA sequencing, spatial gene expression, establishment of non-model animal trial
   - Supervisor: Professor Hui-Wen Chen
 
 - 2021-2024: Postdoctoral fellow
-
   - Department of Veterinary medicine, National Taiwan University
   - Duties includes: Parrot bornavirus animal model, vaccine and diagnostic method development, immunology research
   - Supervisor: Professor Hui-Wen Chen
 
 - 2020-2021: Research Assistant
-
   - Research Center for Animal Medicine, National Chung Hsing University
   - Duties included: Swine disease diagnosis, animal trials, subunit antigen expression and characterization, vaccine development
   - Supervisor: Professor Maw-Sheng ChienHub
@@ -62,8 +58,7 @@ redirect_from:
   {% if post.category == "honors" %}
     {% include archive-single-cv.html %}
   {% endif %}
-{% endfor %}</ul> 
-
+{% endfor %}</ul>
 
 # Publications
 
@@ -86,6 +81,7 @@ redirect_from:
 # Talks
 
 ## Invited Talks
+
 <ul>{% for post in site.talks reversed %}
   {% if post.type == "Invited talk" %}
     {% include archive-single-talk-cv.html %}
@@ -93,6 +89,7 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Conference Presentations
+
 <ul>{% for post in site.talks reversed %}
   {% if post.type == "Conference proceedings talk" %}
     {% include archive-single-talk-cv.html %}

@@ -17,4 +17,4 @@ My current research integrates single-cell RNA sequencing to explore the pathoge
 
 **Keywords:** virology, single-cell, avian biology, transcriptomics
 
-**Contact:** [cjyleo@gmail.com](cjyleo@gmail.com)/ [jychen@niar.org.tw](jychen@niar.org.tw)
+**Contact:** [cjyleo@gmail.com](mailto:cjyleo@gmail.com) / [jychen@niar.org.tw](mailto:jychen@niar.org.tw)

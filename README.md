@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal academic website:
 
-- **Site URL:** [https://jychen74.github.io](https://jychen74.github.io)
+- **Site URL:** <https://jychen74.github.io>
 - **Repository:** `jychen74/jychen74.github.io`
 - **Base template:** Academic Pages (Jekyll)
 
@@ -57,7 +57,7 @@ bundle install
 bundle exec jekyll serve -l -H localhost
 ```
 
-Then open [http://localhost:4000](http://localhost:4000).
+Then open <http://localhost:4000>.
 
 ### Option B: Docker
 
@@ -65,7 +65,7 @@ Then open [http://localhost:4000](http://localhost:4000).
 docker compose up
 ```
 
-Then open [http://localhost:4000](http://localhost:4000).
+Then open <http://localhost:4000>.
 
 ---
 
@@ -93,6 +93,21 @@ Then open [http://localhost:4000](http://localhost:4000).
 
 - Edit `_pages/cv.md` for the Markdown CV page.
 - If needed, update generated data in `_data/cv.json` and related scripts in `scripts/`.
+
+---
+
+
+## Merge Conflict Quick Fix (GitHub UI)
+
+If a pull request shows **"Can’t automatically merge"**, use this flow:
+
+1. Open the pull request and click **Resolve conflicts**.
+2. For each conflicted file, keep the final content you want (remove conflict markers).
+3. Click **Mark as resolved**.
+4. Click **Commit merge**.
+5. Return to the PR and click **Merge pull request**.
+
+Tip: for this repository, always verify `README.md`, `_config.yml`, and `_pages/cv.md` after resolving conflicts.
 
 ---
 

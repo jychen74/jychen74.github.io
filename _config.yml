@@ -29,7 +29,8 @@ author:
 #  location         : "Taiwan"
   employer         : "National Center for Biomodels"
   uri              : https://jychen74.github.io/
-  email            : "cjyleo@gmail.com / jychen@niar.org.tw"
+  email1            : "cjyleo@gmail.com / jychen@niar.org.tw"
+  official-email            : "jychen@niar.org.tw"
 
   # Academic websites
   #academia         : # URL

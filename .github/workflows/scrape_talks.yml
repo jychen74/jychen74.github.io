@@ -13,14 +13,14 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.9'  # the Python version you need
+        python-version: '3.11'
 
     - name: Install dependencies
       run: |
@@ -37,4 +37,4 @@ jobs:
         git config user.email "actions@github.com"
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
-        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/jychen74/jychen74.github.io.git HEAD:master
+        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/jychen74/jychen74.github.io.git HEAD:${{ github.ref_name }}

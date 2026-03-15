@@ -1,48 +1,140 @@
 @font-face {
   font-family: 'Noto Sans TC';
   src: url('/assets/fonts/NotoSansTC-Regular.ttf') format('truetype');
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
 }
 
-/* print font setting */
-body {
-  font-family: 'Noto Sans TC', 'Times New Roman', serif;
-  font-size: 11pt;
-  line-height: 1.5;
-  color: #000;
-  background: #fff;
-  margin: 0;
-  padding: 0;
+@page {
+  size: A4;
+  margin: 0.65in 0.75in;
 }
 
-/* Hide navigation, footer, and sidebar for print */
-.site-header, .page__footer, .page__sidebar, .nav__container, .breadcrumb-nav, .toc {
+html,
+body {
+  font-family: 'Noto Sans TC', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.45;
+  color: #1f2937;
+  background: #fff !important;
+}
+
+/* Remove non-CV chrome */
+.masthead,
+.greedy-nav,
+.page__footer,
+.page__related,
+.author__avatar,
+.author__content,
+.author__urls-wrapper,
+.sidebar,
+.page__meta,
+.social-share,
+.pagination,
+.comments,
+.btn,
+.follow-button,
+a.btn,
+button {
   display: none !important;
 }
 
-/* Set up A4 print layout */
-@page {
-  size: A4;
-  margin: 1in;
+#main,
+.page,
+.page__inner-wrap,
+.initial-content,
+.archive,
+.page__content {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-.page {
-  padding: 0;
-}
-
-/* Prevent page breaks inside headings */
-h1, h2, h3 {
+/* Typographic hierarchy */
+h1,
+h2,
+h3 {
+  color: #0f172a;
+  margin: 0.85rem 0 0.45rem;
   page-break-after: avoid;
+  break-after: avoid-page;
 }
 
-/* Avoid breaking between a heading and the following paragraph */
-h1, h2, h3, h4, h5, h6, p {
+h1 {
+  font-size: 1.85rem;
+  border-bottom: 2px solid #0f766e;
+  padding-bottom: 0.15rem;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.45rem;
+  border-bottom: 1px solid #cbd5e1;
+  padding-bottom: 0.1rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+}
+
+p,
+ul,
+ol,
+li {
   orphans: 3;
   widows: 3;
 }
 
-/* Add spacing before each major section */
-section {
-  page-break-before: always;
+ul,
+ol {
+  margin: 0.3rem 0 0.8rem 1.1rem;
+  padding: 0;
+}
+
+li {
+  margin: 0.15rem 0;
+}
+
+/* Keep CV list items compact */
+.page__content > ul > li {
+  margin-bottom: 0.35rem;
+}
+
+/* Links should print in readable dark color */
+a,
+a:visited {
+  color: #0f4c81 !important;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+/* Show URLs for external links in print */
+a[href^="http"]::after {
+  content: " (" attr(href) ")";
+  font-weight: 400;
+  color: #64748b;
+  font-size: 0.85em;
+}
+
+/* Don't show href for local downloads */
+a[href^="/"]::after,
+a[href^="#"]::after {
+  content: "";
+}
+
+/* Better page breaks for long sections */
+h2,
+h3 {
+  break-inside: avoid;
+}
+
+li,
+p {
+  break-inside: avoid;
+}
+
+/* Keep section transitions neat */
+h2:not(:first-of-type) {
+  margin-top: 1rem;
 }

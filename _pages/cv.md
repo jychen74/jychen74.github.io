@@ -35,7 +35,7 @@ redirect_from:
 - 2020-2021: Research Assistant
   - Research Center for Animal Medicine, National Chung Hsing University
   - Duties included: Swine disease diagnosis, animal trials, subunit antigen expression and characterization, vaccine development
-  - Supervisor: Professor Maw-Sheng ChienHub
+  - Supervisor: Professor Maw-Sheng Chien
 
 - 2011-2012: Research Assistant
   - Graduate institute of Veterinary Pathobiology, National Chung Hsing University

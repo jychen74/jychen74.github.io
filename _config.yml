@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jing-Yuan Chen"
 title_separator          : "-"
 name                     : &name "Jing-Yuan Chen"
-description              : &description "personal description"
+description              : &description "Veterinary virology researcher specializing in avian viral disease, diagnostics, and single-cell transcriptomics"
 url                      : "https://jychen74.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jychen74/jychen74.github.io"
@@ -29,7 +29,7 @@ author:
 #  location         : "Taiwan"
   employer         : "National Center for Biomodels"
   uri              : https://jychen74.github.io/
-  email            : "cjyleo@gmail.com /n jychen@niar.org.tw" 
+  email            : "cjyleo@gmail.com / jychen@niar.org.tw"
 
   # Academic websites
   #academia         : # URL
@@ -140,13 +140,18 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description           : "Veterinary virology, avian disease diagnostics, and single-cell transcriptomics research by Jing-Yuan Chen"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Jing-Yuan Chen"
+  links:
+    - "https://scholar.google.com/citations?user=cGiPX_IAAAAJ&hl=zh-TW"
+    - "https://orcid.org/0000-0001-8021-2369"
+    - "https://www.scopus.com/authid/detail.uri?authorId=57210919532#"
+    - "https://www.linkedin.com/in/jing-yuan-chen"
+    - "https://github.com/jychen74"
 
 
 # Analytics

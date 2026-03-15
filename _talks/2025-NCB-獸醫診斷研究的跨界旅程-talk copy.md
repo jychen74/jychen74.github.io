@@ -1,7 +1,7 @@
 ---
 title: "獸醫診斷研究的跨界旅程"
 collection: talks
-category: "Vererinary"
+category: "Veterinary"
 type: "Invited talk"
 permalink: /talks/2025-NCB-獸醫診斷研究的跨界旅程-talk
 excerpt: ""

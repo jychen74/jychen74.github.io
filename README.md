@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal academic website:
 
-- **Site URL:** <https://jychen74.github.io>
+- **Site URL:** [https://jychen74.github.io](https://jychen74.github.io)
 - **Repository:** `jychen74/jychen74.github.io`
 - **Base template:** Academic Pages (Jekyll)
 
@@ -57,7 +57,7 @@ bundle install
 bundle exec jekyll serve -l -H localhost
 ```
 
-Then open <http://localhost:4000>.
+Then open [http://localhost:4000](http://localhost:4000).
 
 ### Option B: Docker
 
@@ -65,7 +65,7 @@ Then open <http://localhost:4000>.
 docker compose up
 ```
 
-Then open <http://localhost:4000>.
+Then open [http://localhost:4000](http://localhost:4000).
 
 ---
 

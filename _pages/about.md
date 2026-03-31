@@ -9,6 +9,8 @@ redirect_from:
 
 ## Jing-Yuan (Leo) Chen
 
+> Veterinarian and researcher studying viral diseases and host responses, integrating experimental models with sequencing-based approaches.
+
 I am a veterinarian and researcher specializing in viral diseases and vaccine development, with a strong commitment to advancing animal health. My early work focused on swine viral pathogens, including Porcine Circovirus Type 2 and Classical Swine Fever Virus, contributing to the improvement of diagnostic tools and disease control strategies.
 
 In recent years, I have expanded my research to avian virology, investigating pathogens such as Avian Influenza Virus and Parrot Bornavirus. A notable achievement in this field is the development of the Instant Parrot Viral-Specific Antibody Detection Cell (ViSA), an innovative serological assay that offers rapid and reliable antibody detection for clinical applications.

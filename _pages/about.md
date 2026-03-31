@@ -6,14 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Jing-Yuan (Leo) Chen
 
-I am a veterinarian and researcher specializing in viral diseases and vaccine development, with a strong commitment to advancing animal health. My early work focused on swine viral pathogens, including Porcine Circovirus Type 2 and Classical Swine Fever Virus, contributing to the improvement of diagnostic tools and disease control strategies.
 
-In recent years, I have expanded my research to avian virology, investigating pathogens such as Avian Influenza Virus and Parrot Bornavirus. A notable achievement in this field is the development of the Instant Parrot Viral-Specific Antibody Detection Cell (ViSA), an innovative serological assay that offers rapid and reliable antibody detection for clinical applications.
+> Veterinarian and researcher studying viral diseases and host responses, integrating experimental models with sequencing-based approaches.
 
-My current research integrates single-cell RNA sequencing to explore the pathogenesis and host responses to Parrot Bornavirus infection in experimental parrots. This approach provides unprecedented resolution into host–pathogen interactions, enabling the identification of novel targets for intervention and informing the development of more effective therapeutic strategies.
+I am a veterinarian and researcher working on viral diseases, with a focus on pathogenesis, diagnostics, and host responses. My research spans swine and avian viruses, including Porcine Circovirus Type 2, Classical Swine Fever Virus, and Parrot Bornavirus.
+
+I have developed diagnostic approaches such as the Instant Parrot Viral-Specific Antibody Detection Cell (ViSA), and currently focus on applying sequencing technologies, including Nanopore, for pathogen detection and experimental animal monitoring.
+
+In parallel, I use single-cell RNA sequencing to study host responses to viral infection, particularly in the nervous system.
 
 **Keywords:** virology, single-cell, avian biology, transcriptomics
 

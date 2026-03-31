@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-## Jing-Yuan (Leo) Chen
-
 > Veterinarian and researcher studying viral diseases and host responses, integrating experimental models with sequencing-based approaches.
 
 I am a veterinarian and researcher working on viral diseases, with a focus on pathogenesis, diagnostics, and host responses. My research spans swine and avian viruses, including Porcine Circovirus Type 2, Classical Swine Fever Virus, and Parrot Bornavirus.

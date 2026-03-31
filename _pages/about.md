@@ -8,6 +8,7 @@ redirect_from:
 ---
 ## Jing-Yuan (Leo) Chen
 
+<<<<<<< HEAD
 
 > Veterinarian and researcher studying viral diseases and host responses, integrating experimental models with sequencing-based approaches.
 

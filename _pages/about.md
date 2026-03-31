@@ -16,6 +16,6 @@ I have developed diagnostic approaches such as the Instant Parrot Viral-Specific
 
 In parallel, I use single-cell RNA sequencing to study host responses to viral infection, particularly in the nervous system.
 
-**Keywords:** virology, single-cell, avian biology, transcriptomics
+**Keywords:** Virology; Host response; Nanopore sequencing; Single-cell transcriptomics; Avian biology
 
 **Contact:** [cjyleo@gmail.com](mailto:cjyleo@gmail.com) / [jychen@niar.org.tw](mailto:jychen@niar.org.tw)

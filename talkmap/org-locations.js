@@ -15,7 +15,7 @@ var addressPoints = [
     121.5636796
   ],
   [
-    "\u52d5\u7269\u5be6\u9a57\u8a2d\u8a08\u898f\u756b\u8207\u57f7\u884c<br />NTU DVM; National Taiwan University, Taipei, Taiwan",
+    "\u52d5\u7269\u5be6\u9a57\u898f\u5283\u8207\u57f7\u884c<br />NTU DVM; National Taiwan University, Taipei, Taiwan",
     25.0168175,
     121.5384571
   ],

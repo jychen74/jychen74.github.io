@@ -33,10 +33,5 @@ var addressPoints = [
     "A novel versatile diagnostic method for parrot bornavirus infection<br />American Society for Virology 43rd Annual Meeting; Columbus, Ohio, USA",
     39.9622601,
     -83.0007065
-  ],
-  [
-    "Single-Cell Analysis in Veterinary Research<br />National Center for Biomodels; Taipei, Taiwan",
-    25.0375198,
-    121.5636796
   ]
 ];

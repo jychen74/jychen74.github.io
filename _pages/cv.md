@@ -20,7 +20,6 @@ redirect_from:
 - 2025~ Present: Assistant Research Fellow
   - Veterinary diagnosis, National Center for Biomodels
   - Duties includes: Molecular diagnosis development, laboratory management
-  - Division head: Dr. Yu-Chia Su
 
 - 2024-2025 : Postdoctoral fellow
   - Animal Resource Center, National Taiwan University

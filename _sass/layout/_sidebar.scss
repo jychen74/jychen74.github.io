@@ -262,3 +262,42 @@
     }
   }
 }
+
+/*
+   Desktop profile layout
+   ========================================================================== */
+
+@media screen and (min-width: $sidebar-screen-min-width) {
+  #main {
+    max-width: none;
+    padding-left: 4.1em;
+    padding-right: 4.1em;
+  }
+
+  .sidebar {
+    width: 250px;
+    max-width: 250px;
+    padding-right: 0;
+  }
+
+  .archive,
+  .page {
+    float: none;
+    width: auto;
+    max-width: 900px;
+    margin-left: 354px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .page .page__inner-wrap {
+    float: none;
+    width: 100%;
+  }
+
+  .author__bio,
+  .author__urls li {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+}

@@ -25,11 +25,6 @@ var addressPoints = [
     121.5636796
   ],
   [
-    "\u5be6\u9a57\u9ce5\u79bd\u7684\u751f\u7406\u8207\u5be6\u52d9\u7ba1\u7406<br />National Center for Biomodels; Taipei, Taiwan",
-    25.0375198,
-    121.5636796
-  ],
-  [
     "A novel versatile diagnostic method for parrot bornavirus infection<br />American Society for Virology 43rd Annual Meeting; Columbus, Ohio, USA",
     39.9622601,
     -83.0007065

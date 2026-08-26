@@ -275,8 +275,8 @@
   }
 
   .sidebar {
-    width: 250px;
-    max-width: 250px;
+    width: 320px;
+    max-width: 320px;
     padding-right: 0;
   }
 
@@ -299,5 +299,11 @@
   .author__urls li {
     white-space: normal;
     overflow-wrap: anywhere;
+  }
+
+  .author__urls,
+  .author__urls a {
+    width: 100%;
+    max-width: none;
   }
 }

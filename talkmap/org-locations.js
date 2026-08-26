@@ -20,12 +20,12 @@ var addressPoints = [
     121.5384571
   ],
   [
-    "\u5be6\u9a57\u9ce5\u79bd\u7684\u751f\u7406\u8207\u5be6\u52d9\u7ba1\u7406<br />National Center for Biomodels; Taipei, Taiwan",
+    "\u7378\u91ab\u8a3a\u65b7\u7814\u7a76\u7684\u8de8\u754c\u65c5\u7a0b<br />National Center for Biomodels; Taipei, Taiwan",
     25.0375198,
     121.5636796
   ],
   [
-    "\u7378\u91ab\u8a3a\u65b7\u7814\u7a76\u7684\u8de8\u754c\u65c5\u7a0b<br />National Center for Biomodels; Taipei, Taiwan",
+    "\u5be6\u9a57\u9ce5\u79bd\u7684\u751f\u7406\u8207\u5be6\u52d9\u7ba1\u7406<br />National Center for Biomodels; Taipei, Taiwan",
     25.0375198,
     121.5636796
   ],
@@ -33,5 +33,10 @@ var addressPoints = [
     "A novel versatile diagnostic method for parrot bornavirus infection<br />American Society for Virology 43rd Annual Meeting; Columbus, Ohio, USA",
     39.9622601,
     -83.0007065
+  ],
+  [
+    "Single-Cell Analysis in Veterinary Research<br />National Center for Biomodels; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
   ]
 ];

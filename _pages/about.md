@@ -14,6 +14,8 @@ I have developed diagnostic approaches such as the Instant Parrot Viral-Specific
 
 In parallel, I use single-cell RNA sequencing to study host responses to viral infection, particularly in the nervous system.
 
+In November 2026, I passed the Laboratory Animal Veterinarian certification examination under the [Taiwan College of Laboratory Animal Medicine (TCLAM)](https://www.tclam.org.tw/certificate/) certification program (electronic certificate pending).
+
 **Keywords:** Virology; Host response; Nanopore sequencing; Single-cell transcriptomics; Avian biology
 
 **Contact:** [cjyleo@gmail.com](mailto:cjyleo@gmail.com) / [jychen@niar.org.tw](mailto:jychen@niar.org.tw)

@@ -15,6 +15,10 @@ redirect_from:
 - M.S. in Veterinary Pathobiology, National Chung Hsing University, 2010
 - B.S. in Veterinary medicine, National Chiayi University, 2008
 
+# Professional qualifications
+
+- 2026-11-23: Passed the Laboratory Animal Veterinarian certification examination under the [Taiwan College of Laboratory Animal Medicine (TCLAM)](https://www.tclam.org.tw/certificate/) certification program (electronic certificate pending).
+
 # Work experience
 
 - 2025~ Present: Assistant Research Fellow
